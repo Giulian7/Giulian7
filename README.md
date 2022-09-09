@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Giulian7
 - 👀 I’m interested in ... Almost everything
-- 🌱 I’m currently learning ... Sofa management, it's a summer 
-- 💞️ I’m looking to collaborate on ... Actually 
+- 🌱 I’m currently learning ... Sofa management, it's a summer school
+- 💞️ I’m looking to collaborate on ... Actually IDK
 - 📫 How to reach me ... giulianpardini@gmail.com
 
 <!---
