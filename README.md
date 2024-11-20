@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giulian7
 - 👀 I’m interested in ... Everything
-- 🌱 I’m currently learning ... Nothing, sorry
+- 🌱 I’m currently learning ... IT things, like OSes, Internetworkig, Programming, stuff... 
 - 💞️ I’m looking to collaborate on ... Good ideas
 - 📫 How to reach me ... giulianpardini@gmail.com
 
